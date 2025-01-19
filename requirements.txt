@@ -1,1 +1,8 @@
-# Add your required Python libraries here
+# Required Python libraries here
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyterlab
+openpyxl
